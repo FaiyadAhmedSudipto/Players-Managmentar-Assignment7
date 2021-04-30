@@ -2,7 +2,9 @@
 
 ### Github Code
 **Github Link-**  https://github.com/FaiyadAhmedSudipto/Players-Managmentar-Assignment7
+
 **LiveSite Link-**  https://friendly-lewin-6906e4.netlify.app/
+
 _Deployed with Netlify_
 
 ### About PLAYERS MANAGMENTAR
