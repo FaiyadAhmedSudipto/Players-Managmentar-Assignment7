@@ -1,4 +1,4 @@
-## CRUISE QUEEN - A Simple Calculating Project
+## PLAYERS MANAGMENTAR - A Simple Calculating Project
 
 ### Github Code
 **Github Link-**  https://github.com/FaiyadAhmedSudipto/Players-Managmentar-Assignment7
